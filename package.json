@@ -1,0 +1,27 @@
+{
+  "name": "dollarchecker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "realtime dollar check.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fxckk/dollarchecker.git"
+  },
+  "author": "fxck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fxckk/dollarchecker/issues"
+  },
+  "homepage": "https://github.com/fxckk/dollarchecker#readme",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10",
+    "discord.js": "^13.3.1",
+    "events": "^3.3.0"
+  }
+}
